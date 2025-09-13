@@ -1,1 +1,1 @@
-# TheLastShot.github.io
+Просто сайт для ЛР 1.
